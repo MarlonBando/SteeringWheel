@@ -1,6 +1,6 @@
 # README
 
-## ![English](https://cdn-icons-png.flaticon.com/128/197/197374.png) English
+## <img src="https://cdn-icons-png.flaticon.com/128/197/197374.png" alt="English Flag" width="24"/> English
 
 This repository contains a pdf with my becholore thesis: Design and development of a steering wheel for a Formula Student racing car.
 
