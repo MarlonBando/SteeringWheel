@@ -22,7 +22,7 @@ The project focuses on:
 The source code for the software and firmware is not included in this repository, as it is internal to the UniPR Racing Team.
 The English version is translated automatically since it was written in Italian.
 
-## ![Italian](https://cdn-icons-png.flaticon.com/128/197/197626.png) Italiano
+## <img src="https://cdn-icons-png.flaticon.com/128/197/197626.png" alt="Italian Flag" width="24"/> Italiano
 
 Questa repository contiene un PDF con la mia tesi di laurea: **Progettazione e sviluppo di un volante per una vettura da competizione Formula Student**.
 
